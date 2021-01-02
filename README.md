@@ -1,4 +1,8 @@
-### [password-generator](https://takagotch.github.io/page421/)
+### [password-generator](https://codepen.io/takagotch/pen/MWjVYaz)
+---
+
+###### GithuPage hosting
+https://takagotch.github.io/page421/)
 ---
 
 
